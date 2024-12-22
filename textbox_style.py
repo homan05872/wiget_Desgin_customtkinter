@@ -30,7 +30,7 @@ dark_text = customtkinter.CTkTextbox(root,
 	scrollbar_button_hover_color="darkgray",
 	)
 
-# TextBoxの'white'モードデザイン
+# TextBoxの'light'モードデザイン
 light_text = customtkinter.CTkTextbox(root,
 	border_width=2,
 	border_color="#979DA2",
